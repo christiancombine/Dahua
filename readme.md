@@ -7,3 +7,6 @@
 - then run the .py file
 
 # NOTE i recommend u do this on a diffrent drive if u have low storage like under 40gb
+
+# Programs : 20GB
+# Rest - 40GB+
